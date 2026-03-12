@@ -19,10 +19,10 @@ Through this analysis, the project highlights how data can support data-driven d
 
 This project is especially useful for:
 
-📊 Aspiring Data Analysts building a portfolio project.
-📚 Students learning Python, SQL, and Power BI.
-💼 Anyone preparing for Data Analytics interviews.
-📈 Professionals who want to understand end-to-end analytics workflows.
+📊 Aspiring Data Analysts building a portfolio project.  
+📚 Students learning Python, SQL, and Power BI.  
+💼 Anyone preparing for Data Analytics interviews.  
+📈 Professionals who want to understand end-to-end analytics workflows.  
 
 **📌 Project Overview**
 
