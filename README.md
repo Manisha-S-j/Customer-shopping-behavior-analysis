@@ -29,30 +29,30 @@ This project is especially useful for:
 The project simulates a real analytics workflow that data teams typically perform inside organizations.
 
 The workflow includes:
-✔ Data Cleaning & Preparation
-✔ Exploratory Data Analysis
-✔ Business Query Analysis using SQL
-✔ Interactive Dashboard Creation
-✔ Insight Generation & Business Recommendations
-The final output is an interactive Power BI dashboard that visualizes customer behavior trends.
+✔ Data Cleaning & Preparation.  
+✔ Exploratory Data Analysis.  
+✔ Business Query Analysis using SQL.  
+✔ Interactive Dashboard Creation.  
+✔ Insight Generation & Business Recommendations.  
+The final output is an interactive Power BI dashboard that visualizes customer behavior trends.  
 
 **⚙️ Technologies Used**
 
 This project uses a modern analytics stack:
 
-Data Analysis
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Database
-MySQL
-Visualization
-Microsoft Power BI
-Development Environment
-Jupyter Notebook
-Visual Studio Code
+Data Analysis  
+Python  
+Pandas  
+NumPy  
+Matplotlib  
+Seaborn  
+Database  
+MySQL  
+Visualization  
+Microsoft Power BI  
+Development Environment  
+Jupyter Notebook  
+Visual Studio Code  
 
 **🔍 Project Workflow**
 
@@ -84,11 +84,11 @@ Some of the analytical questions explored in this project include:
 
 The final stage of the project focuses on creating an interactive dashboard in Microsoft Power BI to visualize key insights such as:
 
-✔ Customer segmentation
-✔ Revenue distribution
-✔ Top-performing products
-✔ Purchase patterns across demographics
-These visual insights help businesses understand customer trends and make better strategic decisions.
+✔ Customer segmentation.  
+✔ Revenue distribution  
+✔ Top-performing products  
+✔ Purchase patterns across demographics  
+These visual insights help businesses understand customer trends and make better strategic decisions.  
 
 Example:
 
@@ -115,14 +115,14 @@ Customer-shopping-behavior-analysis
 
 **🚀 How to Run This Project**
 
-1️⃣ Clone the repository
-git clone https://github.com/Manisha-S-j/Customer-shopping-behavior-analysis.git
-2️⃣ Open the project in Visual Studio Code or Jupyter Notebook
-3️⃣ Run the notebook to perform data cleaning and analysis
-4️⃣ Load the processed dataset into MySQL
-5️⃣ Execute SQL queries to answer business questions
-6️⃣ Connect the database to Microsoft Power BI
-7️⃣ Open the Power BI file to explore the interactive dashboard
+1️⃣ Clone the repository  
+git clone https://github.com/Manisha-S-j/Customer-shopping-behavior-analysis.git  
+2️⃣ Open the project in Visual Studio Code or Jupyter Notebook  
+3️⃣ Run the notebook to perform data cleaning and analysis  
+4️⃣ Load the processed dataset into MySQL  
+5️⃣ Execute SQL queries to answer business questions  
+6️⃣ Connect the database to Microsoft Power BI  
+7️⃣ Open the Power BI file to explore the interactive dashboard  
 
 **💡 Future Improvements**
 
@@ -135,10 +135,10 @@ This project can be extended further by:
 
 **👩‍💻 Author**
 
-Manisha S J
+Manisha S J  
 Data Analytics Project
 
-GitHub Repository:
-https://github.com/Manisha-S-j/Customer-shopping-behavior-analysis
+GitHub Repository:  
+https://github.com/Manisha-S-j/Customer-shopping-behavior-analysis  
 
 ⭐ If you found this project useful, feel free to star the repository and share it with others learning data analytics.
